@@ -1,0 +1,14 @@
+{
+    "name": "discord-status-bot",
+    "version": "1.0.0",
+    "description": "A bot that updates status",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "dependencies": {
+      "discord.js": "^14.11.0",
+      "dotenv": "^16.0.3"
+    }
+  }
+  
